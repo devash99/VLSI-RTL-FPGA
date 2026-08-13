@@ -1,0 +1,25 @@
+# Icarus Verilog simulation outputs
+*.vvp
+*.vcd
+sim
+
+# Vivado generated files
+.vivado/
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.srcs/
+.gen/
+.xpr
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
