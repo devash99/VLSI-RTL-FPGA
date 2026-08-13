@@ -9,6 +9,7 @@ A long-term hardware design project focused on **Digital Design, SystemVerilog R
 The ultimate goal is to design and verify an advanced **64-bit RISC-V RV64GC out-of-order superscalar processor** from RTL.
 
 ### Target Architecture
+**The following specifications represent the current architectural targets and may evolve as the design progresses**.
 
 ```text
 ISA                 : RISC-V RV64GC
@@ -29,7 +30,6 @@ Reservation Stations:
   Memory            : 8
 
 Branch Prediction   : Tournament Predictor
-Target Accuracy     : >93%
 
 Verification        : SystemVerilog / UVM
 Implementation      : FPGA
