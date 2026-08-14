@@ -2446,35 +2446,4 @@ When writing RTL, think in this order:
    Does the waveform/output match the expected hardware behavior?
 
 
-============================================================
-SECTION 2 COMPLETE
-============================================================
 
-16/16 topics completed.
-
-The most important skills to carry forward are:
-
-1. WIDTH THINKING
-2. SIGNEDNESS
-3. BITWISE vs LOGICAL vs REDUCTION
-4. PACKED VECTOR SYNTAX
-5. CONCATENATION / REPLICATION
-6. MUX THINKING
-7. TESTBENCH DISCIPLINE
-8. HARDWARE MENTAL MODEL
-
-These concepts form the foundation for larger RTL blocks such as:
-
-- Multiplexers
-- Decoders
-- Encoders
-- Adders
-- ALUs
-- Comparators
-- Shifters
-- Register files
-- Datapaths
-- FSMs
-- Processor cores
-
-SECTION 2 STATUS: COMPLETE
