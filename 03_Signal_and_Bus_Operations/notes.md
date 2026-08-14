@@ -1,9 +1,8 @@
-======================================================================
-SECTION 3 — SIGNAL & BUS OPERATIONS
-COMPLETE RTL NOTES
-======================================================================
 
-STATUS: COMPLETE — 11/11 TOPICS
+# SECTION 3 — SIGNAL & BUS OPERATIONS
+COMPLETE RTL NOTES
+
+# STATUS: COMPLETE — 11/11 TOPICS
 
 01. Bus Splitter
 02. Bus Combiner
